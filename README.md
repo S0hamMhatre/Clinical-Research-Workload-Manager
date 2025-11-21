@@ -25,7 +25,7 @@ Personalized workload views displaying:
 - **Composite workload metric** (sum of: patients per study × study complexity score)
 - Breakdown of all assigned studies and their respective patient counts. The studies assigned in this list will automatically adjust KPIs at the top of the dashboard.
 
-![CRC Dashboard](images/crc_dashboard.png)
+![CRC Dashboard](images/employee1_dashboard.png)
 *Example dashboard showing workload breakdown by study with real-time metrics*
 
 ### 📝 New Study Criteria Form
@@ -47,7 +47,7 @@ Centralized repository of all clinical trials with detailed attributes:
 ### ⚙️ Configurable Multiplier Table
 Backend scoring engine with adjustable point values for each trial characteristic, allowing the system to adapt to organizational priorities.
 
-![Multiplier Table](images/multiplier_table.png)
+![Multiplier Table](images/study_criteria_multiplier_table.png)
 *Customizable scoring matrix for trial complexity factors*
 
 ## Impact & Results
